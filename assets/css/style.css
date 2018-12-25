@@ -296,6 +296,10 @@ img { max-width: 100%; }
 	max-width: 145px;
 }
 
+.portfolio-box li {
+	margin-right: 30px;
+}
+
 .portfolio-box-date {
 	padding-bottom: 10px;
 	font-size: 14px;
