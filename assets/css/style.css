@@ -292,6 +292,10 @@ img { max-width: 100%; }
 }
 .portfolio-box h3:hover i { padding-left: 15px; }
 
+.portfolio-box a img {
+	max-width: 145px;
+}
+
 .portfolio-box-date {
 	padding-bottom: 10px;
 	font-size: 14px;
@@ -464,3 +468,7 @@ footer {
 }
 
 .footer-bottom a:hover, .footer-bottom a:focus { color: #888; }
+
+.footer-legal {
+	font-size: 10px;
+}
