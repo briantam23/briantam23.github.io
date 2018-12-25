@@ -49,12 +49,14 @@
 	.about-us-box { margin-top: 80px; }
 	.about-us-box:last-child { margin-top: 50px; }
 	.about-us-box-text { padding-right: 0; text-align: center; }
+	.about-us-box-text p { text-align: left; }
 	
 	.more-services-box { text-align: center; }
 	.more-services-box h3 { margin-top: 20px; padding-top: 10px; }
 	
 	.portfolio-box { text-align: center; }
 	.portfolio-box-image { max-width: 540px; margin: 0 auto; }
+	.portfolio-box li { text-align: left; }
 	
 	.blog-box { text-align: center; }
 	.blog-box-image { max-width: 540px; margin: 0 auto; }

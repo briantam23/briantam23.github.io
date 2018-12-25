@@ -435,6 +435,10 @@ img { max-width: 100%; }
 	color: #ddd;
 }
 
+.blog-box p {
+	text-align: left;
+}
+
 .blog-container .section-bottom-button {
 	padding-top: 40px;
 }
