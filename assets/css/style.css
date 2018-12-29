@@ -234,7 +234,7 @@ img { max-width: 100%; }
 /***** About me *****/
 
 .about-me-box {
-	margin-top: 100px;
+	margin-top: 10px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
