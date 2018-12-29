@@ -3,10 +3,12 @@
 
 	.services-box .services-box-icon { width: 60px; height: 60px; font-size: 32px; line-height: 60px; border-radius: 22px; }
 	
-	.about-me-box-text { padding-right: 0; }
+	.about-me-box-text { padding-right: 0; text-align: center; }
+	.about-me-box-img img { max-width: 390px; align-content: center; }
 
 	.portfolio-box { text-align: center; }
-	.portfolio-box-image { max-width: 540px; margin: 0 auto; }
+	.portfolio-box-image-vertical { max-width: 340px; margin: 0 auto; }
+	.portfolio-box-image { max-width: 740px; margin: 0 auto; }
 	.portfolio-box li { text-align: left; }
 	
 }
@@ -24,11 +26,14 @@
 	.about-me-box { margin-top: 80px; }
 	.about-me-box:last-child { margin-top: 50px; }
 	.about-me-box-text { padding-right: 0; text-align: center; }
+	.about-me-box-text p { text-align: left; }
+	.about-me-box-img img { max-width: 390px; align-content: center; }
 	
 	.more-services-box .more-services-box-icon { width: 50px; height: 50px; font-size: 26px; line-height: 50px; border-radius: 18px; }
 	
 	.portfolio-box { text-align: center; }
-	.portfolio-box-image { max-width: 540px; margin: 0 auto; }
+	.portfolio-box-image-vertical { max-width: 294px; margin: 0 auto; }
+	.portfolio-box-image { max-width: 640px; margin: 0 auto; }
 	.portfolio-box li { text-align: left; }
 	.portfolio-box h3:hover i { padding-left: 10px; }
 	
@@ -57,16 +62,19 @@
 	.about-me-box:last-child { margin-top: 50px; }
 	.about-me-box-text { padding-right: 0; text-align: center; }
 	.about-me-box-text p { text-align: left; }
+	.about-me-box-img { text-align: center;}
+	.about-me-box-img img { max-width: 390px; margin: 0 auto; }
 	
 	.more-services-box { text-align: center; }
 	.more-services-box h3 { margin-top: 20px; padding-top: 10px; }
 	
 	.portfolio-box { text-align: center; }
-	.portfolio-box-image { max-width: 540px; margin: 0 auto; }
+	.portfolio-box-image-vertical { max-width: 254px; margin: 0 auto; }
+	.portfolio-box-image { max-width: 554px; margin: 0 auto; }
 	.portfolio-box li { text-align: left; }
 	
 	.blog-box { text-align: center; }
-	.blog-box-image { max-width: 540px; margin: 0 auto; }
+	.blog-box-image { max-width: 370px; margin: 0 auto; }
 	.blog-box h3 { margin-top: 30px; }
 	
 	footer { text-align: center; }

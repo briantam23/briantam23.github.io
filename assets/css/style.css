@@ -3,7 +3,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-weight: 300;
-    color: #888;
+    color: black;
     line-height: 30px;
     text-align: center;
 }
@@ -17,7 +17,7 @@ h1, h2 {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 38px;
     font-weight: 300;
-    color: #555;
+    color: black;
     line-height: 50px;
 }
 
@@ -25,7 +25,7 @@ h3 {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 22px;
     font-weight: 300;
-    color: #555;
+    color: black;
     line-height: 30px;
 }
 
@@ -235,6 +235,9 @@ img { max-width: 100%; }
 
 .about-me-box {
 	margin-top: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .about-me-box-text {
@@ -281,6 +284,21 @@ img { max-width: 100%; }
 	-o-transform: scale(1.25); -moz-transform: scale(1.25); -webkit-transform: scale(1.25); -ms-transform: scale(1.25); transform: scale(1.25);
 }
 
+.portfolio-box-image-vertical {
+	overflow: hidden;
+	border-radius: 4px;
+}
+
+.portfolio-box-image-vertical img {
+	-o-transition: all .8s; -moz-transition: all .8s; -webkit-transition: all .8s; -ms-transition: all .8s; transition: all .8s;
+	border: 1px solid black;
+	border-radius: 4px;
+}
+
+.portfolio-box-image-vertical:hover img {
+	-o-transform: scale(1.25); -moz-transform: scale(1.25); -webkit-transform: scale(1.25); -ms-transform: scale(1.25); transform: scale(1.25);
+}
+
 .portfolio-box h3 {
 	margin-top: 30px;
 }
@@ -303,6 +321,12 @@ img { max-width: 100%; }
 }
 
 .portfolio-box-image {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.portfolio-box-image-vertical {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -458,6 +482,7 @@ img { max-width: 100%; }
 	padding-top: 40px;
 }
 
+.fa { color: black; }
 
 /***** Footer *****/
 
