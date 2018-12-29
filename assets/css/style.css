@@ -288,6 +288,10 @@ img {
 	text-align: left;
 }
 
+.about-me-box-text p { 
+	text-align: left; 
+}
+
 .about-me-box-text h3 {
 	margin-top: 0;
 }

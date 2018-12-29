@@ -65,9 +65,6 @@
 		padding-right: 0; 
 		text-align: center; 
 	}
-	.about-me-box-text p { 
-		text-align: left; 
-	}
 	.about-me-box-img img { 
 		max-width: 390px; 
 		align-content: center; 
@@ -153,9 +150,6 @@
 	.about-me-box-text { 
 		padding-right: 0; 
 		text-align: center; 
-	}
-	.about-me-box-text p { 
-		text-align: left; 
 	}
 	.about-me-box-img { 
 		text-align: center;
