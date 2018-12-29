@@ -233,28 +233,28 @@ img { max-width: 100%; }
 
 /***** About me *****/
 
-.about-us-box {
+.about-me-box {
 	margin-top: 100px;
 }
 
-.about-us-box-text {
+.about-me-box-text {
 	padding-right: 30px;
 	text-align: left;
 }
 
-.about-us-box-text h3 {
+.about-me-box-text h3 {
 	margin-top: 0;
 }
 
-.about-us-box-text .medium-paragraph {
+.about-me-box-text .medium-paragraph {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
 
-.about-us-box-text a { border-bottom: 1px dashed #9b59b6; }
-.about-us-box-text a:hover, .about-us-box-text a:focus { border: 0; }
+.about-me-box-text a { border-bottom: 1px dashed #9b59b6; }
+.about-me-box-text a:hover, .about-me-box-text a:focus { border: 0; }
 
-.about-us-box-img img {
+.about-me-box-img img {
 	border-radius: 4px;
 }
 
@@ -273,6 +273,8 @@ img { max-width: 100%; }
 
 .portfolio-box-image img {
 	-o-transition: all .8s; -moz-transition: all .8s; -webkit-transition: all .8s; -ms-transition: all .8s; transition: all .8s;
+	border: 1px solid black;
+	border-radius: 4px;
 }
 
 .portfolio-box-image:hover img {

@@ -3,7 +3,11 @@
 
 	.services-box .services-box-icon { width: 60px; height: 60px; font-size: 32px; line-height: 60px; border-radius: 22px; }
 	
-	.about-us-box-text { padding-right: 0; }
+	.about-me-box-text { padding-right: 0; }
+
+	.portfolio-box { text-align: center; }
+	.portfolio-box-image { max-width: 540px; margin: 0 auto; }
+	.portfolio-box li { text-align: left; }
 	
 }
 
@@ -17,12 +21,15 @@
 	
 	.services-box .services-box-icon { width: 50px; height: 50px; font-size: 26px; line-height: 50px; border-radius: 18px; }
 
-	.about-us-box { margin-top: 80px; }
-	.about-us-box:last-child { margin-top: 50px; }
-	.about-us-box-text { padding-right: 0; text-align: center; }
+	.about-me-box { margin-top: 80px; }
+	.about-me-box:last-child { margin-top: 50px; }
+	.about-me-box-text { padding-right: 0; text-align: center; }
 	
 	.more-services-box .more-services-box-icon { width: 50px; height: 50px; font-size: 26px; line-height: 50px; border-radius: 18px; }
 	
+	.portfolio-box { text-align: center; }
+	.portfolio-box-image { max-width: 540px; margin: 0 auto; }
+	.portfolio-box li { text-align: left; }
 	.portfolio-box h3:hover i { padding-left: 10px; }
 	
 	.blog-box h3:hover i { padding-left: 10px; }
@@ -46,10 +53,10 @@
 	.services-box { text-align: center; }
 	.services-box h3 { margin-top: 20px; padding-top: 10px; }
 	
-	.about-us-box { margin-top: 80px; }
-	.about-us-box:last-child { margin-top: 50px; }
-	.about-us-box-text { padding-right: 0; text-align: center; }
-	.about-us-box-text p { text-align: left; }
+	.about-me-box { margin-top: 80px; }
+	.about-me-box:last-child { margin-top: 50px; }
+	.about-me-box-text { padding-right: 0; text-align: center; }
+	.about-me-box-text p { text-align: left; }
 	
 	.more-services-box { text-align: center; }
 	.more-services-box h3 { margin-top: 20px; padding-top: 10px; }
