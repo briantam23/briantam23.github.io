@@ -29,8 +29,8 @@ jQuery(document).ready(function() {
     /*
         Background slideshow
     */
-    $('.top-content').backstretch("assets/img/backgrounds/1.jpg");
-    $('.education-container').backstretch("assets/img/backgrounds/1.jpg");
+    $('.top-content').backstretch("assets/img/backgrounds/earth.jpg");
+    $('.education-container').backstretch("assets/img/backgrounds/earth.jpg");
     
     $('#top-navbar-1').on('shown.bs.collapse', function(){
     	$('.top-content').backstretch("resize");
