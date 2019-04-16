@@ -1,4 +1,4 @@
-# Brian Tam's Portfolio Website
+# 💻 Brian Tam's Portfolio Website
 
 * Deployed to: http://briantam23.github.io
 * A Single Page Website with Bootstrap 4 created with libraries such as: jQuery, Font Awesome Icons, Animate.css, WOW.js, and Retina.js. It also implements Responsive Web Design (RWD) using Media Queries.
