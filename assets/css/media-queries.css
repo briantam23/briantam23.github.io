@@ -1,6 +1,10 @@
 
 @media (max-width: 1199px) {
 
+  #experience-container {
+    margin-bottom: -25px;
+  }
+
   #sebra-app {
     margin-bottom: 20px;
   }

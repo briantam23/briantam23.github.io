@@ -320,6 +320,10 @@ img {
 	text-align: left;
 }
 
+.portfolio-box .experience {
+  margin-top: -25px;
+}
+
 .portfolio-box-image-horizontal img {
 	-o-transition: all .8s; 
 	-moz-transition: all .8s; 
@@ -411,7 +415,6 @@ img {
 }
 
 .portfolio-box-date {
-	padding-bottom: 10px;
 	font-size: 14px;
 	color: #aaa;
 	text-transform: uppercase;
@@ -424,6 +427,10 @@ img {
 
 .portfolio-container .section-bottom-button {
 	padding-top: 40px;
+}
+
+#experience-container {
+  margin-bottom: -20px;
 }
 
 .app-store {
