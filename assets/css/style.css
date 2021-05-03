@@ -384,7 +384,11 @@ img {
 	padding-left: 15px; 
 }
 
-.portfolio-box a img {
+.portfolio-box a .technologies {
+	max-width: 145px;
+}
+
+.portfolio-box a .app-marketplace {
 	max-width: 145px;
 }
 
